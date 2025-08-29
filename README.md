@@ -13,7 +13,7 @@ Amaç, karışık haldeki puzzle’ı en kısa adım sayısı ile çözüm durum
 
 ---
 
-## ⚙️ Özellikler
+## Özellikler
 - BFS ile **en kısa çözüm yolunu** bulur.  
 - Her hamlede **geçerli durumları** sıraya ekler, tekrarları engeller.  
 - `visited` kümesi sayesinde aynı duruma tekrar girmez.  
@@ -21,7 +21,7 @@ Amaç, karışık haldeki puzzle’ı en kısa adım sayısı ile çözüm durum
 
 ---
 
-## 🚀 Çalıştırma
+## Çalıştırma
 
 ### Gereksinimler
 - Python 3.x
