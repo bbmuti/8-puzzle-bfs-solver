@@ -9,7 +9,6 @@ Amaç, karışık haldeki puzzle’ı en kısa adım sayısı ile çözüm durum
 
 ## Hedef Durum (Goal State)
 
-
 > Burada `0` boş kutuyu temsil eder.
 
 ---
@@ -35,7 +34,7 @@ Amaç, karışık haldeki puzzle’ı en kısa adım sayısı ile çözüm durum
 2. Programı çalıştır:
   python puzzle_solver.py
 
-
+Örnek:
 Çözüm 4 adımda bulundu:
 
 Adım 0:
